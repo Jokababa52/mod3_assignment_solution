@@ -22,4 +22,12 @@ section {
 /* Style the mobile menu button */
 .navbar-toggle {
     background-color: #f5f5f5;
+    
+}
+
+/* Custom CSS to center menu items in the navigation toggle */
+.custom-center {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
